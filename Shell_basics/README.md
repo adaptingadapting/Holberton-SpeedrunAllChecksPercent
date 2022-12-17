@@ -1,0 +1,1 @@
+this folder is about this new shell basics project, looking forward to it
