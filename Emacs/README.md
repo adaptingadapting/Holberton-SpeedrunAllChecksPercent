@@ -8,3 +8,4 @@ task 2 is about saving, like last time ive done it thousands of times, keep them
 task 3 is about cutting, easy hit control k
 task 4 is about pasting, even tho there is no such thing i guessed they ment yanking and put on c y
 task 5 i dont search as often as i do other things, but i still know its control s
+task 6 i dont make mistakes so i dont undo, but if i needed to i would do control x u to do it
