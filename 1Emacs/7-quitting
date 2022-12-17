@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "C-x C-c" > /root/emacs/quitting
