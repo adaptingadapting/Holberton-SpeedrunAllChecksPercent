@@ -6,3 +6,4 @@ task 0 is about creating a dir in root called emacs, we did it in the first proj
 task 1 is about opening a file from emacs, something ive done countless times, easy money
 task 2 is about saving, like last time ive done it thousands of times, keep them coming
 task 3 is about cutting, easy hit control k
+task 4 is about pasting, even tho there is no such thing i guessed they ment yanking and put on c y
