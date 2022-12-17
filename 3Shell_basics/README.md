@@ -1,3 +1,5 @@
 this folder is about this new shell basics project, looking forward to it
 
 task 0 is fairly basic, print the working directory with pwd
+
+task 1 is more of the same basic stuff, ls prints the contents of the cwd
