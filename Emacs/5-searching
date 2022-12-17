@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "C-s" > /root/emacs/searching

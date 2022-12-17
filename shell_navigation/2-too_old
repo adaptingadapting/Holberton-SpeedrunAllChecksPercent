@@ -1,2 +1,0 @@
-#!/bin/bash
-cd /root; mv old_school new_school

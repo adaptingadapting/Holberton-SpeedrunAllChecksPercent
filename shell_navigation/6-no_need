@@ -1,2 +1,0 @@
-#!/bin/bash
-cd /root; rmdir empty_directory

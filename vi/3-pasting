@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "p" > /root/vi/pasting

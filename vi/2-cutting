@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "dd" > /root/vi/cutting
