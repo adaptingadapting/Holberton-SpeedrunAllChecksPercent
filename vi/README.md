@@ -8,3 +8,5 @@ task 2 is about cutting, i think (know) its dont with the command dd
 tasl 3 is bout pasting, done with the p command
 
 task 4 is about undoing, done with the u command
+
+task 5 is about exiting without saving, i think done with !q
