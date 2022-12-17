@@ -10,3 +10,5 @@ tasl 3 is bout pasting, done with the p command
 task 4 is about undoing, done with the u command
 
 task 5 is about exiting without saving, i think done with !q
+
+task 6 asks you to go to the start of the line, done with 0
