@@ -9,3 +9,5 @@ task 2 is about changing dir to home, easy with cd /home or just cd
 task 3 lists in long format with ls -l flag
 
 task 4 lists in long format with hidden files adding the -a flag
+
+task 5 had to do a read up on the man page for this one, its the n flag
