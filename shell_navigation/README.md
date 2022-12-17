@@ -6,4 +6,5 @@ task 1 should take you to root like before and this time we copy the file with c
 task 2 is about a new functionality of mv, that of renaming files
 task 3 again we need to use the move command, this time conventionally to move to another directory, fairly easy
 task 4 uses a new command, the rm or remove one.
-tasl 5 in task 5 we use the mkdir command to make a directory
+task 5 in task 5 we use the mkdir command to make a directory
+task 6 in this task we remove an empty directory using rmdir, only when the dir is empty we can use this command
