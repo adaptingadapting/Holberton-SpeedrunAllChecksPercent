@@ -41,3 +41,5 @@ task 18 use one of the character classes for this one
 task 19 can use tr multiple ways, i chose a double pipe setup, not the most efficient
 
 task 20 is just the same as 19
+
+task 21 is just using the rev command
