@@ -12,3 +12,5 @@ task 3 now only the -o flag is needed, a downgrade in difficulty from the first 
 task 4 is rather simple i have to say, but i cant see how it was necessary when we were just starting
 
 task 5 is just about using printf, simple as last time but cool that we had trouble doing this once and now its so easy
+
+task 6 this one is fine, if not a little tedious now that i know how to use printf already, but its fine
