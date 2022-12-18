@@ -6,3 +6,5 @@ task 0 i did it with a pipe last time funnily enough but this time i used the in
 task 1 i did with the other flag for gcc, although ive never used them outside these excericeses i still somewhat remember their existence
 
 task 2 is just copy paste with another flag, im gonna use this flag later to learn assembler tho, nice to know
+
+task 3 now only the -o flag is needed, a downgrade in difficulty from the first excersice
