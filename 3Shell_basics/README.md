@@ -17,3 +17,5 @@ task 6 i thought of doing cd then creating but you can do it just with mkdir
 task 7 is just move, simple
 
 task 8 is just a remove command
+
+task 9 in this one we use the -r flag of the rm command that removes directories and their contents recursively
