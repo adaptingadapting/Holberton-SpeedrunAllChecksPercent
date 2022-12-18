@@ -9,3 +9,5 @@ task 2 ive used cat quite a bit these last three months, i will do it once more
 task 3 just add one argument to task 2
 
 task 4 using the tail command for this
+
+task 5 is easy, use head for this one instead of tail
