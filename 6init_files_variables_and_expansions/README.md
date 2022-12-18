@@ -19,3 +19,5 @@ task 7 in task 7 we do use the export keyword funnily enough
 task 8 addition with expansion. funniliy enough my program doesnt work
 
 task 9 more arithmetic
+
+task 10 i dont know why my file prints one more newline than nescessary, but ok
