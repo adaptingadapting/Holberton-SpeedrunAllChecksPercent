@@ -18,3 +18,5 @@ task 7 even easier than last
 task 8 i remember when lucas cobham made a joke about the name of the task, shoutout to him
 
 task 9 is another chmod set
+
+task 10 just read the manual (for chmod)
