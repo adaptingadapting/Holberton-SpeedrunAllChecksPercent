@@ -14,3 +14,5 @@ task 5 was trickier before, now just do +x and its done
 task 6 is just another chmod add one
 
 task 7 even easier than last
+
+task 8 i remember when lucas cobham made a joke about the name of the task, shoutout to him
