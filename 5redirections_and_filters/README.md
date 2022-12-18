@@ -19,3 +19,5 @@ task 7 is tricky, for now the task that has taken me the longest
 task 8 slows down and goes for a new functionality, in this case ">"
 
 task 9 is a combo of tail and >
+
+task 10 man find is very long and tedious, but read it all anyways
