@@ -24,4 +24,6 @@ task 10 man find is very long and tedious, but read it all anyways
 
 task 11 in task 11 we use a wc -l to count the lines output of find
 
-task 12 we go back to ls
+task 12 we go back to lse
+
+task 13 i forgot about adding the -u flag to uniq for a while, that was embarassing
