@@ -47,3 +47,5 @@ task 21 is just using the rev command
 task 22 uses cut for the first time and its going to be useful in the following excercises
 
 task 23 was very hard the first time i tried, i did it faster now obviously
+
+task 24 was also tough when i started, the -V sort flag was ingrained in my brain beacsue of this one, so it was easy to do it this time
