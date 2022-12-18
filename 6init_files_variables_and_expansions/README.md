@@ -31,3 +31,5 @@ task 13 is another printf one, still dont like how it works
 task 14 is yet another printf exercise, ive never used it before or after today and the first time we did these i have to say
 
 task 15 is really tricky, first time i took the answer from the web
+
+task 16 i couldnt do this one, paste command threw me off
