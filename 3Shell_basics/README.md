@@ -33,3 +33,5 @@ task 14 just do the -n flag of the cp command, easy money
 task 15 is about moving using the upper keyword
 
 task 16 is pretty useful, but rather simple
+
+task 17 just uses the -r flag of the mkdir command, i remember when lucas cobham told me about it, shoutout to him
