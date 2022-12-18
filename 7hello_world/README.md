@@ -8,3 +8,5 @@ task 1 i did with the other flag for gcc, although ive never used them outside t
 task 2 is just copy paste with another flag, im gonna use this flag later to learn assembler tho, nice to know
 
 task 3 now only the -o flag is needed, a downgrade in difficulty from the first excersice
+
+task 4 is rather simple i have to say, but i cant see how it was necessary when we were just starting
