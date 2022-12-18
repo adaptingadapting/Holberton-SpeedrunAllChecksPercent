@@ -27,3 +27,5 @@ task 11 this one is still tricky, its about reading that manual
 task 12 printf works strangely in the shell, dont love it
 
 task 13 is another printf one, still dont like how it works
+
+task 14 is yet another printf exercise, ive never used it before or after today and the first time we did these i have to say
