@@ -19,3 +19,5 @@ task 7 is just move, simple
 task 8 is just a remove command
 
 task 9 in this one we use the -r flag of the rm command that removes directories and their contents recursively
+
+task 10 task 10 is unironically tricky
