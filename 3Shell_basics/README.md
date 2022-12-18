@@ -25,3 +25,5 @@ task 10 task 10 is unironically tricky
 task 11 is back to being simple, just ls and then the dirs in order
 
 task 12 is about using file
+
+task 13 is tricky aswell, i had forgotten about the ln command
