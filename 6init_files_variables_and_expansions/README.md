@@ -9,3 +9,5 @@ task 2 im sad that i doesmnt work in my local dir but it should be a reasonable 
 task 3 i thought i was original but this is the exact same solution i had on the original excersice, too bad
 
 task 4 in this one we just use one commmand, first time using printenv
+
+task 5 simple use of the set  command, this command has no man page though so its a little annoying
