@@ -15,3 +15,5 @@ task 5 simple use of the set  command, this command has no man page though so it
 task 6 is just setting a variable without export
 
 task 7 in task 7 we do use the export keyword funnily enough
+
+task 8 addition with expansion. funniliy enough my program doesnt work
