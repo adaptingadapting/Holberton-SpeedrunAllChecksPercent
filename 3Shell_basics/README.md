@@ -13,3 +13,5 @@ task 4 lists in long format with hidden files adding the -a flag
 task 5 had to do a read up on the man page for this one, its the n flag
 
 task 6 i thought of doing cd then creating but you can do it just with mkdir
+
+task 7 is just move, simple
