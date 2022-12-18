@@ -20,3 +20,5 @@ task 8 i remember when lucas cobham made a joke about the name of the task, shou
 task 9 is another chmod set
 
 task 10 just read the manual (for chmod)
+
+task 11 adds with the -R flag of chmod
