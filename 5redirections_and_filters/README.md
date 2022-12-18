@@ -23,3 +23,5 @@ task 9 is a combo of tail and >
 task 10 man find is very long and tedious, but read it all anyways
 
 task 11 in task 11 we use a wc -l to count the lines output of find
+
+task 12 we go back to ls
