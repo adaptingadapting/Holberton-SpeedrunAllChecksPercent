@@ -11,3 +11,5 @@ task 3 just add one argument to task 2
 task 4 using the tail command for this
 
 task 5 is easy, use head for this one instead of tail
+
+task 6 is a combination of head and tial with their respective line flags
