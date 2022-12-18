@@ -23,3 +23,5 @@ task 9 more arithmetic
 task 10 i dont know why my file prints one more newline than nescessary, but ok
 
 task 11 this one is still tricky, its about reading that manual
+
+task 12 printf works strangely in the shell, dont love it
