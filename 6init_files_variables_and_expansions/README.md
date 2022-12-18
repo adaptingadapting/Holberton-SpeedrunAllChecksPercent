@@ -3,3 +3,5 @@ this is the project that contains the infamous water excercise, so i doubt i wil
 task 0 simple use of the alias command
 
 task 1 i did it with printf this time, expand the user variable
+
+task 2 im sad that i doesmnt work in my local dir but it should be a reasonable solution
