@@ -17,3 +17,5 @@ task 6 is a combination of head and tial with their respective line flags
 task 7 is tricky, for now the task that has taken me the longest
 
 task 8 slows down and goes for a new functionality, in this case ">"
+
+task 9 is a combo of tail and >
