@@ -8,3 +8,5 @@ task 2 was not that hard either, there is a groups command after all
 task 3 in this one we use a new command called chown, change owner
 
 task 4 weve already done this before, just use touch
+
+task 5 was trickier before, now just do +x and its done
