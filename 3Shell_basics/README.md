@@ -29,3 +29,5 @@ task 12 is about using file
 task 13 is tricky aswell, i had forgotten about the ln command
 
 task 14 just do the -n flag of the cp command, easy money
+
+task 15 is about moving using the upper keyword
