@@ -28,3 +28,5 @@ task 12 a new flag for mkdir this time its -m for mode
 task 13 just chgrp
 
 task 14 cute flag for chown
+
+task 15 is a little confusing, whether it is a symbolic link or not doesnt really matter, it should tell you what it wants you to do to the file instead
