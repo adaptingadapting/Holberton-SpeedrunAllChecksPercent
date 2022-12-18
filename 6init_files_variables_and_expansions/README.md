@@ -11,3 +11,5 @@ task 3 i thought i was original but this is the exact same solution i had on the
 task 4 in this one we just use one commmand, first time using printenv
 
 task 5 simple use of the set  command, this command has no man page though so its a little annoying
+
+task 6 is just setting a variable without export
