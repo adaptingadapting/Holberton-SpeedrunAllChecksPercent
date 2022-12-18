@@ -22,3 +22,5 @@ task 9 is another chmod set
 task 10 just read the manual (for chmod)
 
 task 11 adds with the -R flag of chmod
+
+task 12 a new flag for mkdir this time its -m for mode
