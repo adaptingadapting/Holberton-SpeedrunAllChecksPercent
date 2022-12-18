@@ -33,3 +33,5 @@ task 14 is yet another printf exercise, ive never used it before or after today 
 task 15 is really tricky, first time i took the answer from the web
 
 task 16 i couldnt do this one, paste command threw me off
+
+task 17 no way task 17 is doable like this, i wont upload it
