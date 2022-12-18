@@ -33,3 +33,5 @@ task 14 again is easier, jsut use grep and win
 task 15 just use the c flag for the grep command and you got it, things are going to get harder soon, pray for me
 
 task 16 is again easy just use the flag for the grep command
+
+task 17 another grep flag, this is getting trivial
