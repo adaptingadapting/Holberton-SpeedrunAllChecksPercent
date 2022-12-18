@@ -49,3 +49,5 @@ task 22 uses cut for the first time and its going to be useful in the following 
 task 23 was very hard the first time i tried, i did it faster now obviously
 
 task 24 was also tough when i started, the -V sort flag was ingrained in my brain beacsue of this one, so it was easy to do it this time
+
+task 25 i tried doing it without paste this time, i did it in a weird but cool way
