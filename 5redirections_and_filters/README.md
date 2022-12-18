@@ -43,3 +43,5 @@ task 19 can use tr multiple ways, i chose a double pipe setup, not the most effi
 task 20 is just the same as 19
 
 task 21 is just using the rev command
+
+task 22 uses cut for the first time and its going to be useful in the following excercises
