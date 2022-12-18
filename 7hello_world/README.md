@@ -10,3 +10,5 @@ task 2 is just copy paste with another flag, im gonna use this flag later to lea
 task 3 now only the -o flag is needed, a downgrade in difficulty from the first excersice
 
 task 4 is rather simple i have to say, but i cant see how it was necessary when we were just starting
+
+task 5 is just about using printf, simple as last time but cool that we had trouble doing this once and now its so easy
