@@ -7,3 +7,5 @@ task 1 i did it with printf this time, expand the user variable
 task 2 im sad that i doesmnt work in my local dir but it should be a reasonable solution
 
 task 3 i thought i was original but this is the exact same solution i had on the original excersice, too bad
+
+task 4 in this one we just use one commmand, first time using printenv
