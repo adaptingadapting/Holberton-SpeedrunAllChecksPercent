@@ -5,6 +5,7 @@ char *_strncat(char *dest, char *src, int n);
 char *_strcat(char *dest, char *src);
 int _atoi(char *str);
 char *_strcpy(char *dest, char *src);
+char *_strncpy(char *dest, char *src, int n);
 void print_array(int *a, int n);
 void puts_half(char *str);
 void puts2(char *str);

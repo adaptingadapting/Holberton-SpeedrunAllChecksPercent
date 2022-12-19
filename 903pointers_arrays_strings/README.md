@@ -25,3 +25,5 @@ task 100 cost me i think around an hour and a half maybe? the most ive spent in 
 task 0 was rather simple, its annoying that both these projects are in the same directory but whatever
 
 task 1 again quite simple, this time i remembered to add the null character from the start
+
+task 2 was harder than it needed to be beacsue i didnt read the man, but once i did it was just about that null byte and where to put it, just equate dest to source and let source decide whethere there is a null byte in dest or not
