@@ -23,3 +23,5 @@ task 9 was quite tricky actually, took me a while but its done, especially that 
 task 10 was quite a change of pace, a one line function
 
 task 11 was kind of funny , ithink my old try was better looking even, but whatever
+
+task 100 i decided to not add the commas just because it looks better this way, i wont upload it anyways so i just know that i did it and that thats the only missing part
