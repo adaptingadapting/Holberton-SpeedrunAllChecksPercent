@@ -15,3 +15,5 @@ task 5 took me the longest, it was a silly little problem and i made it big sadl
 task 6 took me only arounnd 4 minutes in comparision, so thats good
 
 task 7 this one is another simple one really, not much to say
+
+task 8 was simple as well, everything is simple when you can use printf
