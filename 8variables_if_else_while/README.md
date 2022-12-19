@@ -1,0 +1,1 @@
+now going into variables and if else while im feeling pretty good, i think the challeenge will start around bit manipulation maybe then ill spend some time
