@@ -11,3 +11,5 @@ task 3 i feel like vie done this one before, but whatever here we go again
 task 4 a simple logic statement there in the for loops sghould do enough
 
 task 5 took me a few minutes, that modulus there was tricky to figure out but its done now
+
+task 6 was rather simple, now these could get harder now
