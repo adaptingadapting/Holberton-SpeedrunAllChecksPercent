@@ -5,3 +5,5 @@ task 0 is simple enough, like i expected. these first few projects are very milk
 task 1 was long again which is fine just unfortunate now
 
 task 2 i went for a much cleaner solution now, so thats good
+
+task 3 is just copy paste not really much to say
