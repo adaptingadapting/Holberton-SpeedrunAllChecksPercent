@@ -21,3 +21,5 @@ task 8 was simple as well, everything is simple when you can use printf
 task 9 i thought this would be harder actuallly but its been done in a few minutes so thats good, on with the speedrun
 
 task 100 cost me i think around an hour and a half maybe? the most ive spent in one of these for now and it makes sense i think, its not that easy and this is my first time doing it, im kinda of proud but i know the code can get alot cleaner, still, its done
+
+task 0 was rather simple, its annoying that both these projects are in the same directory but whatever
