@@ -7,3 +7,5 @@ task 1 was long again which is fine just unfortunate now
 task 2 i went for a much cleaner solution now, so thats good
 
 task 3 is just copy paste not really much to say
+
+task 4 again i did it in a fancier way now, with a not logical statemenet
