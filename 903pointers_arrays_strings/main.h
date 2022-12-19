@@ -1,6 +1,7 @@
 #ifndef main_H
 #define main_H
 
+void puts_half(char *str);
 void puts2(char *str);
 void rev_string(char *str);
 void print_rev(char *str);
