@@ -14,3 +14,5 @@ task 4 is rather simple i have to say, but i cant see how it was necessary when 
 task 5 is just about using printf, simple as last time but cool that we had trouble doing this once and now its so easy
 
 task 6 this one is fine, if not a little tedious now that i know how to use printf already, but its fine
+
+task 7 was interesting, i just remembered the whole write thing, even though its never explicited i found it back then, and its nice that you have to go looking for once to solve one of these, not like i did that now but back then
