@@ -21,3 +21,5 @@ task 8 is done with the modulus thing again, good enoguh
 task 9 was quite tricky actually, took me a while but its done, especially that fraaking spaces thing is annoyinh
 
 task 10 was quite a change of pace, a one line function
+
+task 11 was kind of funny , ithink my old try was better looking even, but whatever
