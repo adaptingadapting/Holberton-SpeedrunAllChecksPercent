@@ -13,3 +13,5 @@ task 4 was very simple, just remember that uppercase chars have a lower asci num
 task 5 was a little tedious but doable, simple though
 
 task 6 is very simple, the fact that there is such a function is kinda funny but its understandable, we dont want to make our own
+
+task 7 first time combining multiple functions, this time abs and putchar and thats it
