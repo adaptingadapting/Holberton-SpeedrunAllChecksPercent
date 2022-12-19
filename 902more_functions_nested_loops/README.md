@@ -8,4 +8,6 @@ task 2 i just did it all in the return this time, no setting up a result variabl
 
 task 3 i feel like vie done this one before, but whatever here we go again
 
-task 4 a simple logic statement there in the for loops sghould do enough 
+task 4 a simple logic statement there in the for loops sghould do enough
+
+task 5 took me a few minutes, that modulus there was tricky to figure out but its done now
