@@ -1,0 +1,1 @@
+creating readme for pointer arrays string repo, finally we are doing something i"interesintg"
