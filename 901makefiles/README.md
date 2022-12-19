@@ -7,3 +7,5 @@ task 1 i did it  little differently, by setting up the variables below the build
 task 2 what a farse, this whole project is just the worst
 
 task 3 is easier than 2 but a drag nonetheless, i cant wait to finish this project
+
+task 4 thankfully im done, on to the next project
