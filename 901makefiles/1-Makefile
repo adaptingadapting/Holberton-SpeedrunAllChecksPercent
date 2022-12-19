@@ -1,0 +1,4 @@
+all: school
+school: school.c main.c
+CC=gcc
+SRC=*.c
