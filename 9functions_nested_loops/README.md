@@ -29,3 +29,5 @@ task 100 i decided to not add the commas just because it looks better this way, 
 task 101 is quite simple i have to say,  so thats good
 
 task 102 i have a feeling  i did this one in a not so efficient manner, but its donee and its not like i trolled horribly, could ahve done better though
+
+task 103 i didnt check, i think its fine though, im a little surprised by the change in difficulty though
