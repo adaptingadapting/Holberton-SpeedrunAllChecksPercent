@@ -21,3 +21,5 @@ task 8 is simple copy pasting and chaning 1 or two things, thats been this whole
 tasl 9 is confusing with its wording, what does combination of single digit numbers mean
 
 task 100 was good, i did it much more efficiently this time around
+
+task 101 its just funny how much more clean my code looks compared to the old one, and how much more efficient and elegant it is, even though both are hardcode this one is just so much more slick, im embarassed of the other code pretty much. but its nice that i tried back then, and nicer that i got it down
