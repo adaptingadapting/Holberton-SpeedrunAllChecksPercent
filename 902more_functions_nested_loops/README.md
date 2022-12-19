@@ -21,3 +21,5 @@ task 8 was good, i tied doing it only setting up one varaible but cant just play
 task 9 i think this is the ultimate version of mine of fizz buzz, its pretty short and sweet and there is nothing extra from what i cant see, its the shortest version of it i have ever put out
 
 task 10 was good, definetively a little tricky for me actually but still i got it pretty quick and nice, on to the advanced ones
+
+task 11 is interesting because it really doesnt tell you what the maximimum could be, my program wont raellay work for numbers over 10 thousand but ok, i know they didnt mean for it to work in such case
