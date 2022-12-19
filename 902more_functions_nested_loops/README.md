@@ -19,3 +19,5 @@ task 7 i think there might be better way to go about it but this solution took m
 task 8 was good, i tied doing it only setting up one varaible but cant just play around with n while you are using it for the other loop in a square sadly, so i set up and got it
 
 task 9 i think this is the ultimate version of mine of fizz buzz, its pretty short and sweet and there is nothing extra from what i cant see, its the shortest version of it i have ever put out
+
+task 10 was good, definetively a little tricky for me actually but still i got it pretty quick and nice, on to the advanced ones
