@@ -3,6 +3,7 @@
 
 #include <unistd.h>
 
+int _abs(int n);
 int print_sign(int n);
 int _putchar(char c);
 void print_alphabet(void);
