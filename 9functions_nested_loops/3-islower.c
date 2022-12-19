@@ -2,6 +2,7 @@
 
 /**
  * _islower - islower
+ * @c: char
  * Return: int
  */
 

@@ -2,6 +2,7 @@
 
 /**
  * _isalpha - isalpha
+ * @c: char
  * Return: int
  */
 
