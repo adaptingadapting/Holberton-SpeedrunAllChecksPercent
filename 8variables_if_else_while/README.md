@@ -17,3 +17,5 @@ task 6 ok its literally the same code as last time, thats funny
 task 7 easy as well, nothing to really comment
 
 task 8 is simple copy pasting and chaning 1 or two things, thats been this whole directory really
+
+tasl 9 is confusing with its wording, what does combination of single digit numbers mean
