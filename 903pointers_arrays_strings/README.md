@@ -7,3 +7,5 @@ task 1 was also quite hard back then, but now its done and it took me around 2 m
 task 2 ive done countless times really, so its become seocond nature these string functions, especially string lenght
 
 task 3 i think i coulve done it easily with just write i have to say, maybe that just beoing lazy on my part
+
+task 4 i combined strlen into this one and putchar and made a simple function i think this has to be a pretty good way to go about this
