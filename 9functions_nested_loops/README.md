@@ -19,3 +19,5 @@ task 7 first time combining multiple functions, this time abs and putchar and th
 task 8 is done with the modulus thing again, good enoguh
 
 task 9 was quite tricky actually, took me a while but its done, especially that fraaking spaces thing is annoyinh
+
+task 10 was quite a change of pace, a one line function
