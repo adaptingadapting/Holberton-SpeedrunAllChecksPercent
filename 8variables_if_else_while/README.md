@@ -11,3 +11,5 @@ task 3 is just copy paste not really much to say
 task 4 again i did it in a fancier way now, with a not logical statemenet
 
 task 5 is up for choice, i used putchar but apparently you can use printf
+
+task 6 ok its literally the same code as last time, thats funny
