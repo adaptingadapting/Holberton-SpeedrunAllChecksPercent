@@ -15,3 +15,5 @@ task 5 took me a few minutes, that modulus there was tricky to figure out but it
 task 6 was rather simple, now these could get harder now
 
 task 7 i think there might be better way to go about it but this solution took me around 5 minutes and its pretty good
+
+task 8 was good, i tied doing it only setting up one varaible but cant just play around with n while you are using it for the other loop in a square sadly, so i set up and got it
