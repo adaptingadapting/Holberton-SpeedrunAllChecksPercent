@@ -11,3 +11,5 @@ task 3 i think i coulve done it easily with just write i have to say, maybe that
 task 4 i combined strlen into this one and putchar and made a simple function i think this has to be a pretty good way to go about this
 
 task 5 took me the longest, it was a silly little problem and i made it big sadly, but not that big, i managed in thirty minutes probably
+
+task 6 took me only arounnd 4 minutes in comparision, so thats good
