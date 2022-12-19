@@ -3,3 +3,5 @@ now going into variables and if else while im feeling pretty good, i think the c
 task 0 is simple enough, like i expected. these first few projects are very milky
 
 task 1 was long again which is fine just unfortunate now
+
+task 2 i went for a much cleaner solution now, so thats good
