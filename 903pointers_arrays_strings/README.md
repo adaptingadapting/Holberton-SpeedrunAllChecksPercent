@@ -17,3 +17,5 @@ task 6 took me only arounnd 4 minutes in comparision, so thats good
 task 7 this one is another simple one really, not much to say
 
 task 8 was simple as well, everything is simple when you can use printf
+
+task 9 i thought this would be harder actuallly but its been done in a few minutes so thats good, on with the speedrun
