@@ -1,0 +1,1 @@
+readme file for functions nested loops, this one is quite easy
