@@ -33,3 +33,5 @@ task 3 i hardcoded it last time, to be fair it was the only time i hardcoded any
 task 4 was simple enough, i added the - 1 before even checking and it was a good call, i think im starting to develop some instinct
 
 task 5 32 numbers separate uppercase and lowercase chars so just add or substract to get the one you want
+
+task 6 took me a while funnily enough but i think it was a simple one actually, i just trolled
