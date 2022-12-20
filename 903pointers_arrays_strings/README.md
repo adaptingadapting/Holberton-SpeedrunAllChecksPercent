@@ -51,3 +51,5 @@ task 4 was a nice change of pace, change to a much easier excercise
 task 5 was a one try thing, i think it turned out fine, could have done better but im happy with the way i got it
 
 task 6 i think im one behind because im on 7 but whatever, its 3 am anid im tired
+
+task 7 im glad its over, no advanced taks for now, tomorrow ill get to that. doing all of this in one repo and in one main.h file was pretty troll though
