@@ -37,3 +37,5 @@ task 5 32 numbers separate uppercase and lowercase chars so just add or substrac
 task 6 took me a while funnily enough but i think it was a simple one actually, i just trolled
 
 task 7 was very difficult to figure out, not so much to implement, one of those cool paatterns to learn, ironically i had already used that for some other excercises today so yeah, blind spot for me there
+
+task 0 memset im kind of annoyed already that these 3 are in the same directory but whatever, task 0 was kind of tricky because str[i] doesnt ever exist so just < n ahs to serve
