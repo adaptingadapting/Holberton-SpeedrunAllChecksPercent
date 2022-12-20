@@ -1,6 +1,9 @@
 #ifndef main_H
 #define main_H
 
+#include <stddef.h>
+
+char *_strchr(char *str, char c);
 char *_memcpy(char *dest, char *src, unsigned int n);
 char *_memset(char *s, char b, unsigned int n);
 char *rot13(char *str);

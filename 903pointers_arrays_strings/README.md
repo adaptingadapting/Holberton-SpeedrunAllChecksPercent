@@ -41,3 +41,5 @@ task 7 was very difficult to figure out, not so much to implement, one of those 
 task 0 memset im kind of annoyed already that these 3 are in the same directory but whatever, task 0 was kind of tricky because str[i] doesnt ever exist so just < n ahs to serve
 
 task 1 memcpy kind of funny that in the example its printed wrong for the sake of the viewer, that kind of threw me off for a couple minutes honlestly
+
+task 2 was kind of super easy the one thing was returning the first instance of the char which kinda stumped me but only for a few mminutes, so nice
