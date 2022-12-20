@@ -11,3 +11,5 @@ task 3 cost me quite a bit, i didnt want to add the > 1 caveat to the code as i 
 task 4 was funny in that i added return 1 to fix one case and it fixed everything else, that was pretty convenient i have to say
 
 task 5 was the first time you had to create a secondary function i think and okay i did it again this time
+
+task 6 final task of the day, felt good to do it without help and stuff, recursion is definetively rarely used but still it is good to know to do these things at least somewhat
