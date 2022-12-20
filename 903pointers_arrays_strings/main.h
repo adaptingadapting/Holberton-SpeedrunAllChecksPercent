@@ -3,6 +3,7 @@
 
 #include <stddef.h>
 
+char *_strstr(char *haystack, char *needle);
 char *_strpbrk(char *str, char *str2);
 unsigned int _strspn(char *str, char *accept);
 char *_strchr(char *str, char c);
