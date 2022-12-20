@@ -29,3 +29,5 @@ task 1 again quite simple, this time i remembered to add the null character from
 task 2 was harder than it needed to be beacsue i didnt read the man, but once i did it was just about that null byte and where to put it, just equate dest to source and let source decide whethere there is a null byte in dest or not
 
 task 3 i hardcoded it last time, to be fair it was the only time i hardcoded anything just beacuse i didnt really undesrtand what "comparison" means between two stirngs, you just return the difference of two characters
+
+task 4 was simple enough, i added the - 1 before even checking and it was a good call, i think im starting to develop some instinct
