@@ -7,3 +7,5 @@ task 1 i delcared a variable for seemlingly no reason, even though if i remoeved
 task 2 was simple enough, the thing that cost me the most was the adding one paart but it was still a swift task
 
 task 3 cost me quite a bit, i didnt want to add the > 1 caveat to the code as i felt it was a little hardcodey but i couldnt see another way
+
+task 4 was funny in that i added return 1 to fix one case and it fixed everything else, that was pretty convenient i have to say
