@@ -35,3 +35,5 @@ task 4 was simple enough, i added the - 1 before even checking and it was a good
 task 5 32 numbers separate uppercase and lowercase chars so just add or substract to get the one you want
 
 task 6 took me a while funnily enough but i think it was a simple one actually, i just trolled
+
+task 7 was very difficult to figure out, not so much to implement, one of those cool paatterns to learn, ironically i had already used that for some other excercises today so yeah, blind spot for me there
