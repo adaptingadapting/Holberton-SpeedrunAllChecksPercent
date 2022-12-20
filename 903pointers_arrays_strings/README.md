@@ -45,3 +45,5 @@ task 1 memcpy kind of funny that in the example its printed wrong for the sake o
 task 2 was kind of super easy the one thing was returning the first instance of the char which kinda stumped me but only for a few mminutes, so nice
 
 task 3 took me a whole but i arrived at a reasonable solution i think
+
+task 4 was a nice change of pace, change to a much easier excercise

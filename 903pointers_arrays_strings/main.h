@@ -3,6 +3,7 @@
 
 #include <stddef.h>
 
+char *_strpbrk(char *str, char *str2);
 unsigned int _strspn(char *str, char *accept);
 char *_strchr(char *str, char c);
 char *_memcpy(char *dest, char *src, unsigned int n);
