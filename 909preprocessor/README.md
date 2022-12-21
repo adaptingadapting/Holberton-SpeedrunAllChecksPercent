@@ -7,3 +7,5 @@ task 1 i managed to achieve a slight efficiency gain by using ifndef how its int
 task 2 was rather simple again, not much complexity possible with these macro taks to be fair
 
 task 3 the syntax is kind of interesting thats the only real hard part but otherwise still rather simple, i tried doing it without any of these () and it worked but i put them out of out respect for the reader, like everyone lse does
+
+task 4 i would say that this function is a little easier than the one in task 3 to write which is slightly puzzling, task is complete and on to the next one
