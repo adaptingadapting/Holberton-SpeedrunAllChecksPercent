@@ -7,3 +7,5 @@ task 1 its not clear what to do if we are passed a null struct but otherwise jus
 task 2 im wondering if there is an easier way of achieving this. this code is the same as the old one and its pretty good, but there might be a way to be better
 
 task 3 is a one line task, just typedef either struct dog or just the typedefed dog as dog_t
+
+task 4 i managed to do, there is the fear of missing an edge case since im not sending anything to the checks in the back of my mind but im doing well i think, especially because once i finish a task i go back and check how i did before so i dont think im missing anything big
