@@ -5,3 +5,5 @@ task 0 is just defining a structure in a header, shouldnt be too hard. it was th
 task 1 its not clear what to do if we are passed a null struct but otherwise just set the structs paramenters with the ones you are given
 
 task 2 im wondering if there is an easier way of achieving this. this code is the same as the old one and its pretty good, but there might be a way to be better
+
+task 3 is a one line task, just typedef either struct dog or just the typedefed dog as dog_t
