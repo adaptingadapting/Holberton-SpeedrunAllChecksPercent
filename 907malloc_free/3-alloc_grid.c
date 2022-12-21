@@ -16,15 +16,18 @@ int **alloc_grid(int w, int h)
 
 	if (w <= 0 || 0 >= h)
 		return NULL;
-	rstring = malloc(sizeof(int) * h);
+	rstring = malloc(sizeof(int *) * h);
 	if (!rstring)
 		return (NULL);
-	for (i = 0; i < w; i++)
+	for (i = 0; i < h; i++)
 	{
-		rstring[i] = malloc(sizeof(int) * w);
+		rstring[i] = malloc(sizeof(int *) * w);
 		if (!rstring[i])
-			for (j = 0; j < i; j++)
+		{
+			for (j = i; j >= 0; j--)
 				free(rstring[i]);
+			return (NULL);
+		}
 	}
 	for (i = 0; i < h; i++)
 	{

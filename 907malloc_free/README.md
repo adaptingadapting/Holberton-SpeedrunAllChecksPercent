@@ -7,3 +7,5 @@ task 1 i forgot about adding the null byte again sadly so it took me around 10 m
 task 2 im pretty sure this should be fine fine fine so yeah, nice that i got it first try
 
 task 3 took me a while, truth is i need to get better with some of these matrix problems but i did fine
+
+task 4 took me the longest, i had made some slight mistakes in task 3 that i had to fix in order to get this one but thats done and on to the next malloc project
