@@ -9,3 +9,5 @@ task 2 im wondering if there is an easier way of achieving this. this code is th
 task 3 is a one line task, just typedef either struct dog or just the typedefed dog as dog_t
 
 task 4 i managed to do, there is the fear of missing an edge case since im not sending anything to the checks in the back of my mind but im doing well i think, especially because once i finish a task i go back and check how i did before so i dont think im missing anything big
+
+task 5 is done, it comes with a valgrind conditional jumpp baeed on a non init value but ill take it
