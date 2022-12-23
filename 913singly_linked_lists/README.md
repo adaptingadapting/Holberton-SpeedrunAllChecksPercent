@@ -7,3 +7,5 @@ task 1 im a little afraid of advancing the head pointer that they are supplying 
 task 2 was more of the same, lets see if this gets harder ever
 
 task 3 was a pain, kept getting segfault over and over, thing is i was missing in the if head doesnt exist case to specify that head was a pointer, it was compiling fine but at runtime it would never execute so it was tricky, i though maybe i needed some weird malloc but no, i did not
+
+task 4 is coded fine but my programs still lose some memory, i chuck it up to task 3 where i made a mess, i will get better though
