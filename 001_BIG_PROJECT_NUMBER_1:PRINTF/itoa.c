@@ -15,16 +15,11 @@ int _itoa(long int n, int base)
 
 	for (; j; j /= base)
 		elevation *= base;
-	for (; elevation > 0; elevation /= base)
+	for (elevation /= base; elevation > 0; elevation /= base)
 	{
 		digit = ((n % (base * elevation)) / elevation);
-		if (!res && !digit)
-			;
-		else
-		{
-			putchar(digit + '0');
-			res++;
-		}
+		putchar(digit + '0');
+		res++;
 	}
 	if (!n)
 	{
