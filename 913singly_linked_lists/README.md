@@ -5,3 +5,5 @@ task 0 i done, im honestly not super excited but at the same time linked lists a
 task 1 im a little afraid of advancing the head pointer that they are supplying me if i am honest, but surely this cannot be too bad
 
 task 2 was more of the same, lets see if this gets harder ever
+
+task 3 was a pain, kept getting segfault over and over, thing is i was missing in the if head doesnt exist case to specify that head was a pointer, it was compiling fine but at runtime it would never execute so it was tricky, i though maybe i needed some weird malloc but no, i did not
