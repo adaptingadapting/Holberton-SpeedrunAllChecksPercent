@@ -8,7 +8,8 @@
 
 int _pchar(va_list ap)
 {
-	return (putchar(va_arg(ap, int)));
+	putchar(va_arg(ap, int));
+	return (1);
 }
 
 /**
@@ -37,7 +38,8 @@ int _pstring(va_list ap)
 
 int _ppercentage(va_list ap __attribute__ ((unused)))
 {
-	return (putchar('%'));
+	putchar('%');
+	return (1);
 }
 
 /**
@@ -49,8 +51,6 @@ int _ppercentage(va_list ap __attribute__ ((unused)))
 int _pnumber(va_list ap)
 {
 	long int i = va_arg(ap, int);
-	char *aux;
 	
-	aux  = _itoa(i);
-	return (_printf("%s", aux));
+	return (_itoa(i, 10));
 }

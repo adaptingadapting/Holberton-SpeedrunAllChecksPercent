@@ -21,6 +21,7 @@ typedef struct fmt_functions {
 int _printf(const char *const fmt, ...);
 int (*get_function(char c))(va_list ap);
 int _pnumber(va_list ap);
+int _itoa(long int n, int base);
 int _pstring(va_list ap);
 int _pchar(va_list ap);
 int _ppercentage(va_list ap __attribute__ ((unused)));
