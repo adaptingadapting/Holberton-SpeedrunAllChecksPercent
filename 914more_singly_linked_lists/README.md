@@ -9,3 +9,5 @@ task 2 was fast, the thing that caught me up was, in my original project back th
 task 3 has a few nuances, like you need to create the list if it doesnt exist and also, you have to traverse the list in the correct way, overall it was fine and im ready for some harder ones
 
 task 4 forced me to fix tasks 3 errors and im glad for that, turns out to allco memory for a node you have to go the listint t route instead of the name of the node, that took down my errors from around 90 to 0
+
+task 5 i used the previous function in this one for the sake of not having to do it again
