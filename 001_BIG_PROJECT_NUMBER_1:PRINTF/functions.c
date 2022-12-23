@@ -51,6 +51,11 @@ int _ppercentage(va_list ap __attribute__ ((unused)))
 int _pnumber(va_list ap)
 {
 	long int i = va_arg(ap, int);
-	
+
+	if (i < 0)
+	{
+		putchar('-');
+		return (_itoa(-i, 10) + 1);
+	}
 	return (_itoa(i, 10));
 }

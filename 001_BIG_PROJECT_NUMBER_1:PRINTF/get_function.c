@@ -12,6 +12,8 @@ int (*get_function(char format))(va_list ap)
 		{'c', _pchar},
 		{'s', _pstring},
 		{'%', _ppercentage},
+		{'d', _pnumber},
+		{'i', _pnumber},
 		{'\0', NULL}
 	};
 	int i;

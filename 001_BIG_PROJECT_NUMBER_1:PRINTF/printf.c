@@ -27,13 +27,19 @@ int _printf(const char *const fmt, ...)
 					i++;
 				}
 				else
-					rvalue += putchar('%');
+				{
+					rvalue++;
+					putchar('%');
+				}
 			}
 			else
 				return (-1);
 		}
 		else
-			rvalue += putchar(fmt[i]);
+		{
+			rvalue ++;
+			putchar(fmt[i]);
+		}
 	}
 	va_end(ap);
 	return (rvalue);
