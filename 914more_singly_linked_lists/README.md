@@ -11,3 +11,5 @@ task 3 has a few nuances, like you need to create the list if it doesnt exist an
 task 4 forced me to fix tasks 3 errors and im glad for that, turns out to allco memory for a node you have to go the listint t route instead of the name of the node, that took down my errors from around 90 to 0
 
 task 5 i used the previous function in this one for the sake of not having to do it again
+
+task 6 i did something strange in the older version, for some reason i equaled the pointer to the next one twice? i dont know why, this version should work and of course its cleaaner and better
