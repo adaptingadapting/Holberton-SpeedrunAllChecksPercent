@@ -1,7 +1,10 @@
 This repo is for speedrunning the first three months of alx, each project
 and repo will have its own folder inside of which there will be the tasks
 
-day 5: today i only completed two projects, variadic functions and printf, but this was to be expected i think, i think two projects per day is a reasonable goal now, printf took me around 2 hours so that is good, on to linked lists
+day 6: after a little break for christmas im back stronget than even, i completed singly and more singly linked lists justs now and im ready for bit manipulation which im starting, should be done in a few hours and getting ready to crush the doubly linked lists project
+
+day 5: today i only completed two projects, variadic functions and printf, but t
+his was to be expected i think, i think two projects per day is a reasonable goal now, printf took me around 2 hours so that is good, on to linked lists
 
 day 4: day four was the day with the least amount of commits, this pattern has repeated for 3 days straight, but i think this pattern will stop now as i get to a steady normal difficulty, every day will have a similar amount of commits. today i worked on function pointers and in the last task of the project i had an issue where the operator for multipllication "*" expanded before entering the funvtion so argv[2] would be replaced by the names of files instead of just a "*" character
 
