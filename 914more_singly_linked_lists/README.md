@@ -19,3 +19,5 @@ task 7 im back from vacation and its a trumphiant return, as i destroy this task
 task 8 was also rather simple, and i could do it in a few lines also due to the for loops usefulnes, i have to say using the for loop has been one of the only changes to come up in this speedrun in the lists section but im glad it had
 
 task 9 was a definetively a little harder, im still wondering wheter or not i should add a node at index 0 if the list doesnt exist but thats for another day. im glad i did this on my own i do know that i needed some practice in linked lsits and hash tables more than anything and this is good for that, it was a good lesson in not moving the pointer to head you are given
+
+task 10 was a little bit of a drag again, i had trouble with a part of the task where i wanted to free temp just after having assigned temp->next to temp, which of course sounds silly but anyways, the answer also made little sense, as i had specified that *head equaled temp, and the answer was to switch temp with *head, so yeah, switch a for a and it works, go figure
