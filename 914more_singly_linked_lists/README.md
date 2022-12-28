@@ -17,3 +17,5 @@ task 6 i did something strange in the older version, for some reason i equaled t
 task 7 im back from vacation and its a trumphiant return, as i destroy this task in under 10 minutes and get ready to do the rest of them, i like how i did most of it in the for loop although to be fair, it wouldnt fly with betty checking me so yeah, that would be unfortunate
 
 task 8 was also rather simple, and i could do it in a few lines also due to the for loops usefulnes, i have to say using the for loop has been one of the only changes to come up in this speedrun in the lists section but im glad it had
+
+task 9 was a definetively a little harder, im still wondering wheter or not i should add a node at index 0 if the list doesnt exist but thats for another day. im glad i did this on my own i do know that i needed some practice in linked lsits and hash tables more than anything and this is good for that, it was a good lesson in not moving the pointer to head you are given
