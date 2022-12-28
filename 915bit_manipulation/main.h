@@ -8,5 +8,6 @@
 
 unsigned int binary_to_uint(const char *b);
 unsigned int elevator(int n, int base, int elevator);
+void print_binary(unsigned long int n);
 
 #endif
