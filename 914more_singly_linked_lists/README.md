@@ -15,3 +15,5 @@ task 5 i used the previous function in this one for the sake of not having to do
 task 6 i did something strange in the older version, for some reason i equaled the pointer to the next one twice? i dont know why, this version should work and of course its cleaaner and better
 
 task 7 im back from vacation and its a trumphiant return, as i destroy this task in under 10 minutes and get ready to do the rest of them, i like how i did most of it in the for loop although to be fair, it wouldnt fly with betty checking me so yeah, that would be unfortunate
+
+task 8 was also rather simple, and i could do it in a few lines also due to the for loops usefulnes, i have to say using the for loop has been one of the only changes to come up in this speedrun in the lists section but im glad it had
