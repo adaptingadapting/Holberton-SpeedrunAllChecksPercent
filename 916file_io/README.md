@@ -1,3 +1,5 @@
 README file for the file io directory
 
 task 0 even though i thought i would do worse i think i did fine, took me around 15 minutes and most of it was a silly malloc error, in the end i just think file io is quite simple and there is really not much nuance to it, there are better functiions too than these, we are being held to system calls but fopen and some other things make life so much simpler, anyways, good job, i should finihs this one in an hour or two
+
+task 1 file io is kind of boring really, i dont love complaining but there is really not enough excitement in difficulty as much as there is somewhat frustration due to how repetitive and trivial some of these things are to do, task 1 is done now so yeah, thats goood, if i had  to say something that was hard about this one maybe the permmissions, i didnt remember that you had to add them in the flags and such but ok, thats done
