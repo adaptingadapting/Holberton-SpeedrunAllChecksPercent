@@ -1,1 +1,3 @@
 README file for the file io directory
+
+task 0 even though i thought i would do worse i think i did fine, took me around 15 minutes and most of it was a silly malloc error, in the end i just think file io is quite simple and there is really not much nuance to it, there are better functiions too than these, we are being held to system calls but fopen and some other things make life so much simpler, anyways, good job, i should finihs this one in an hour or two
