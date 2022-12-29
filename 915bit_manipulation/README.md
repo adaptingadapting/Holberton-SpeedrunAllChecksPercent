@@ -5,3 +5,5 @@ task 0 solutions is so beautiful, i had actually made up an elevatinvg algorithm
 task 1 cost me quite a bit, the main problem were the traliing zeroes, they were actually leading zeroes when transformed into the reversed number and thus wouldnt be printed, i managed by keeping track of how mnay i would need to print and then printing thme after doing so for i, bit manipulation is cool
 
 task 2 was rather simple, applying some of the concepts seen before in less detail
+
+task 3 is another cute one, this one i solved quite quickly actually and for that im happy , i have to say though that i havent added the return -1 on "errors" function as i dont know how this program could fail, once i run this through the checks i will fix that
