@@ -8,3 +8,5 @@ task 2 i did in the exact same way really, at first i got segfault due to a faul
 
 task 3 im back again after a day of doing nothing, truth is doubly linked lists is not exactly the most excitiing thing but il finish today, task 3 itself is nice, the thing i remember from the singly linked lists is always to save a copy of the head pointer in another variable when you get the double pointer to head.
 then you advance this pointer and add one at the end
+
+task 4 was very simple, literally the same as the four on the singly linked lists project. the recursion idea is the best for anything that requieres you to do things in reverse like freeing a linked list
