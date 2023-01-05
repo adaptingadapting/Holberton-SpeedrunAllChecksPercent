@@ -1,6 +1,8 @@
 This repo is for speedrunning the first three months of alx, each project
 and repo will have its own folder inside of which there will be the tasks
 
+day 7 and 8: i finidhes ddoubly linked lists and hash tables and im set up to do the shell project, hash tables reminded me of bit manipulation in how even if its a little new it was still entertaining (more so than doubly linked lists at least).
+
 day 6: after a little break for christmas im back stronget than even, i completed singly and more singly linked lists justs now and im ready for bit manipulation which im starting, should be done in a few hours and getting ready to crush the doubly linked lists project
 
 day 5: today i only completed two projects, variadic functions and printf, but t
