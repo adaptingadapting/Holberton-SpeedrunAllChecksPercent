@@ -1,0 +1,2 @@
+The speedrun is coming to an end, it took me longer than expected to get here but that is fine, lets see what we can do with this shell project on our own, the part that i remember the most was having finished everything apparently but getting 0 points because i hadnt done the exit status or error managment nesscesary.
+so i will take care of those things from the start as i begin this new project
