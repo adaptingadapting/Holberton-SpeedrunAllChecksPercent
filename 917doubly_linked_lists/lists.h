@@ -21,6 +21,7 @@ typedef struct dlistint_s
 	struct dlistint_s *next;
 }dlistint_t;
 
+dlistint_t *insert_dnodeint_at_index(dlistint_t **h, unsigned int idx, int n);
 int sum_dlistint(dlistint_t *head);
 dlistint_t *get_dnodeint_at_index(dlistint_t *h, unsigned int i);
 void free_dlistint(dlistint_t *head);

@@ -14,3 +14,5 @@ task 4 was very simple, literally the same as the four on the singly linked list
 task 5 was a little troll, but im happy with what i did as i think its a lot cleaener and better fits with the rest of my work, last time i did it it was a one off milky gimmick solution, so this time i step back from index by one and then i return the next pointer, it has to be genius
 
 task 6 was quite easy, i did try to put if (head -> next in the coniditon for the for loop and it was not a good idea as it did not take into the account the last node for the sum, as soon as i fixed that it worked perfectly but yeah, id say thats an easy mistake to make as head->next condition does not end on the last node but the second to last
+
+task 7 took me less than expected really, it was nice doing it in such short time, it emboldens me quite a bit, also its i think the first time where ive parsed trhough a double pointer with the straight pointer not creating any useless nodes or variables, overall a really clean job id think
