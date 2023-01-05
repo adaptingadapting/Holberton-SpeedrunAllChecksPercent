@@ -9,3 +9,7 @@ task 2 again is a one line thing, even "simpler" than task 1 if that is even pos
 task 3 i dont even remember, appraently i didnt do the reacme for it, anyways
 
 task 4 was okay, it was between very easy and interesting, im getting better and better at hash tables
+
+task 5 again i didnt do the readme, my bad on that
+
+task 6 i think what i did was pretty cool, i did a recursive one very similar to the free list (i actually named it the same) function from singly and doubly linked lists, very clean solution if i may say so myself
