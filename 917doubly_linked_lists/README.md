@@ -10,3 +10,5 @@ task 3 im back again after a day of doing nothing, truth is doubly linked lists 
 then you advance this pointer and add one at the end
 
 task 4 was very simple, literally the same as the four on the singly linked lists project. the recursion idea is the best for anything that requieres you to do things in reverse like freeing a linked list
+
+task 5 was a little troll, but im happy with what i did as i think its a lot cleaener and better fits with the rest of my work, last time i did it it was a one off milky gimmick solution, so this time i step back from index by one and then i return the next pointer, it has to be genius
