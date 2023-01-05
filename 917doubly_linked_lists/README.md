@@ -16,3 +16,5 @@ task 5 was a little troll, but im happy with what i did as i think its a lot cle
 task 6 was quite easy, i did try to put if (head -> next in the coniditon for the for loop and it was not a good idea as it did not take into the account the last node for the sum, as soon as i fixed that it worked perfectly but yeah, id say thats an easy mistake to make as head->next condition does not end on the last node but the second to last
 
 task 7 took me less than expected really, it was nice doing it in such short time, it emboldens me quite a bit, also its i think the first time where ive parsed trhough a double pointer with the straight pointer not creating any useless nodes or variables, overall a really clean job id think
+
+task 8 was hard i think, it took me way longer, around all of the other ones combined really so yeah i think it was difficult, there were a lot of nuances and a lot of things to consider but in the end it was doable "doable", so with this doubly linked lsits is done, i have to say it wasnt bad, but this last one did cost me quitea bit
