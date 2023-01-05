@@ -5,3 +5,6 @@ task 0 was rather simple as usual for these 0 tasks, im wondering if its nescess
 task 1 again i did the backing up to the first node of the list, i dont know if its super milky but whatever, i like to think it would be useful somewhere
 
 task 2 i did in the exact same way really, at first i got segfault due to a faulty malloc so that forced me to do it the right way, and a simple right way it is
+
+task 3 im back again after a day of doing nothing, truth is doubly linked lists is not exactly the most excitiing thing but il finish today, task 3 itself is nice, the thing i remember from the singly linked lists is always to save a copy of the head pointer in another variable when you get the double pointer to head.
+then you advance this pointer and add one at the end
