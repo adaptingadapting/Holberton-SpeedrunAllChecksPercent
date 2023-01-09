@@ -9,7 +9,10 @@ int main(void)
 	char *line = NULL;
 	size_t len;
 	list_t *Tline = NULL;
-	ssize_t e_status = 0;
+	ssize_t estatus = 0;
+	size_t ct = 0;
+	ssize_t *e_status = &estatus;
+	size_t *count = &ct;
 
 	for (;;)
 	{
@@ -21,6 +24,6 @@ int main(void)
 			return (0);
 		}
 		_split(&Tline, line, DELIMS);
-		_execute(&Tline);
+		_execute(&Tline, e_status, count);
 	}
 }

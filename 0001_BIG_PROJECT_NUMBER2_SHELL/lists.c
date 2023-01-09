@@ -51,7 +51,7 @@ int delete_node(list_t **list, size_t index)
 	list_t *temp = NULL;
 	size_t i = 0;
 
-	if (!*list)
+	if (!list)
 		return (-1);
 	if (!index)
 	{

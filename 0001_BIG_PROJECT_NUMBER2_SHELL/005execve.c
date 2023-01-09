@@ -5,11 +5,12 @@
  * @array: array derived from tje linked list
  */
 
-size_t _execute2(char **array)
+ssize_t _execute2(char **array, size_t *count)
 {
 	int status;
 	pid_t pid;
-	size_t exit_status;
+	size_t coun = *count;
+	ssize_t exit_status;
 
 	pid = fork();
 	if (pid == -1)
@@ -21,6 +22,6 @@ size_t _execute2(char **array)
 	}
 	else
 		if (execve(array[0], array, environ) == -1)
-			exit(1);
+			exit(2);
 	return (exit_status);
 }

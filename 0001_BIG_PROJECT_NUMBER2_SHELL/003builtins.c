@@ -6,7 +6,7 @@
  * Return: returns the exit code
  */
 
-size_t _builtins(list_t **list)
+ssize_t _builtins(list_t **list, ssize_t *exit_value)
 {
 	list_t *node = NULL;
 	int i;
@@ -15,7 +15,7 @@ size_t _builtins(list_t **list)
 		return (0);
 	node = *list;
 	if (!strcmp(node->string, "exit"))
-		exit(0);
+		exit(*exit_value);
 	if (!strcmp(node->string, "env"))
 	{
 		for (i = 0; environ[i]; i++)
