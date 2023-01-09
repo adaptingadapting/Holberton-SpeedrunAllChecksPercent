@@ -29,7 +29,7 @@ char *path_concat(char *input)
 		if (!stat(buffer, &st) && st.st_mode == 33261)
 			return (buffer);
 		token = strtok(NULL, ":");
-		free(buffer);
+		free(buffer);		
 	}
 	return (NULL);
 }

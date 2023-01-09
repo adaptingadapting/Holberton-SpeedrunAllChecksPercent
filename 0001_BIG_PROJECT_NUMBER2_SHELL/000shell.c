@@ -26,4 +26,5 @@ int main(void)
 		_split(&Tline, line, DELIMS);
 		_execute(&Tline, e_status, count);
 	}
+	free_list(Tline);
 }
