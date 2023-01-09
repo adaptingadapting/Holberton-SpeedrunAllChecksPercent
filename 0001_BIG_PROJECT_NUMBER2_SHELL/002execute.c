@@ -33,6 +33,8 @@ ssize_t _execute(list_t **list, ssize_t *exit_value, size_t *count)
 		fprintf(stderr, "./hsh: %ld: %s: not found\n", *count, array[0]);
 		*exit_value = 127;
 	}
+	free(rstring);
+	free_grid(array);
 	*count += 1;
 	return (*exit_value);
 }
