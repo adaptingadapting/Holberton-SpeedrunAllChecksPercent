@@ -21,15 +21,15 @@ int main(void)
 		if (getline(&line, &len, stdin) == -1)
 		{
 			free(line);
-			return (0);
+			exit (*e_status);
 		}
-		if (_builtins(line, &Tline, e_status))
+		if (!(_builtins(line, &Tline, e_status)))
+			ct++;
+		else
 		{
 			_split(&Tline, line, DELIMS);
 			_execute(&Tline, e_status, count);
 		}
-		else
-			ct++;
 	}
 	return ((int)*e_status);
 }
