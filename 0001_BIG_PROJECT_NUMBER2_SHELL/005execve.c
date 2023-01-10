@@ -9,7 +9,6 @@ ssize_t _execute2(char **array, size_t *count)
 {
 	int status;
 	pid_t pid;
-	size_t coun = *count;
 	ssize_t exit_status;
 
 	pid = fork();

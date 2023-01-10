@@ -10,6 +10,7 @@ char *_getenv(char *var)
 {
 	int i;
 	char *copy = NULL;
+	char *rstring = NULL;
 	char *first_token = NULL;
 
 	for (i = 0; environ[i]; i++)
@@ -23,11 +24,13 @@ char *_getenv(char *var)
 			first_token = strtok(NULL, DELIMS3);
 			if (first_token)
 			{
-				copy = strdup(first_token);
-				return (copy);
+				rstring = strdup(first_token);
+				free(copy);
+				return (rstring);
 			}
 			return (NULL);
 		}
+		free(copy);
 	}
 	free(copy);
 	return (NULL);

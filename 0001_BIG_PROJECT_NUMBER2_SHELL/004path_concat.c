@@ -6,7 +6,7 @@
  * Return: string containing the concat path to execute
  */
 
-char *path_concat(char *input)
+char *path_concat(char *nstring, list_t *head)
 {
 	char *path = _getenv("PATH");
 	char *token = NULL;
@@ -14,22 +14,25 @@ char *path_concat(char *input)
 	char *buffer = NULL;
 	struct stat st;
 
-	if (!stat(input, &st) && st.st_mode == 33261)
-		return (input);
+	if (!stat(nstring, &st) && st.st_mode == 33261)
+		return (nstring);
 	if (!path)
 		return (NULL);
-	i = strlen(path) + 1 + strlen(input);
+	i = strlen(path) + 1 + strlen(nstring);
 	token = strtok(path, ":");
 	while (token)
 	{
 		buffer = malloc(i);
 		strcpy(buffer, token);
 		strcat(buffer, "/");
-		strcat(buffer, input);
+		strcat(buffer, nstring);
 		if (!stat(buffer, &st) && st.st_mode == 33261)
+		{
 			return (buffer);
+		}
 		token = strtok(NULL, ":");
-		free(buffer);		
+		free(buffer);
 	}
+	free(path);
 	return (NULL);
 }

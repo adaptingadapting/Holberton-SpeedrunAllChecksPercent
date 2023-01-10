@@ -36,9 +36,9 @@ int delete_node(list_t **list, size_t index);
 list_t *add_node_end(list_t **list, char *string);
 void _split(list_t **list, char *string, char *delims);
 ssize_t _execute(list_t **list, ssize_t *exit_value, size_t *count);
-ssize_t _builtins(list_t **list, ssize_t *exit_value);
+ssize_t _builtins(char *string, list_t **list, ssize_t *exit_value);
 void free_list(list_t *head);
-char *path_concat(char *input);
+char *path_concat(char *input, list_t *list);
 ssize_t _execute2(char **array, size_t *count);
 
 #endif

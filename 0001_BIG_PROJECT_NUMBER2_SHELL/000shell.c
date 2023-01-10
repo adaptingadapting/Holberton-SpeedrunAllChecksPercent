@@ -23,8 +23,13 @@ int main(void)
 			free(line);
 			return (0);
 		}
-		_split(&Tline, line, DELIMS);
-		_execute(&Tline, e_status, count);
+		if (_builtins(line, &Tline, e_status))
+		{
+			_split(&Tline, line, DELIMS);
+			_execute(&Tline, e_status, count);
+		}
+		else
+			ct++;
 	}
-	free_list(Tline);
+	return ((int)*e_status);
 }

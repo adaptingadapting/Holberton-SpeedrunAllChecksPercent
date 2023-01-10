@@ -16,25 +16,23 @@ ssize_t _execute(list_t **list, ssize_t *exit_value, size_t *count)
 	if (!*list)
 		return (0);
 	node = *list;
-	if (!_builtins(list, exit_value))
-		return (0);
-	rstring = path_concat(node->string);
-	len = list_len(*list);
-	array = calloc(len + 1, sizeof(char *));
-	for (i = 0; node; i++, node = node->next)
-			array[i] = node->string;
+	rstring = path_concat(node->string, node);
 	if (rstring)
 	{
+		len = list_len(*list);
+		array = calloc(len + 1, sizeof(char *));
+		for (i = 1, node = node->next; node; i++, node = node->next)
+			array[i] = node->string;
 		array[0] = rstring;
 		*exit_value = _execute2(array, count);
+		free(rstring);
+		free_grid(array);
 	}
 	else
 	{
-		fprintf(stderr, "./hsh: %ld: %s: not found\n", *count, array[0]);
+		fprintf(stderr, "./hsh: %ld: %s: not found\n", *count, node->string);
 		*exit_value = 127;
 	}
-	free(rstring);
-	free_grid(array);
 	*count += 1;
 	return (*exit_value);
 }

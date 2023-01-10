@@ -17,6 +17,5 @@ void free_grid(char **grid)
 		if (grid[index])
 			free(grid[index]);
 	}
-	if (grid)
-		free(grid);
+	free(grid);
 }

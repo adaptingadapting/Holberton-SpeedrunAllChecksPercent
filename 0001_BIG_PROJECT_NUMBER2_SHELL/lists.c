@@ -19,7 +19,7 @@ list_t *add_node_end(list_t **list, char *string)
 		if (!node)
 			return (NULL);
 		*list = node;
-		node->string = strdup(string);
+		node->string = string;
 		if (!node->string)
 			return (NULL);
 		node->next = NULL;
