@@ -19,7 +19,7 @@ list_t *add_node_end(list_t **list, char *string)
 		if (!node)
 			return (NULL);
 		*list = node;
-		node->string = string;
+		node->string = strdup(string);
 		if (!node->string)
 			return (NULL);
 		node->next = NULL;
@@ -57,6 +57,7 @@ int delete_node(list_t **list, size_t index)
 	{
 		temp = *list;
 		*list = temp->next;
+		free(temp->string);
 		free(temp);
 		return (1);
 	}
@@ -66,6 +67,7 @@ int delete_node(list_t **list, size_t index)
 	{
 		j = temp->next;
 		temp->next = j->next;
+		free(j->string);
 		free(j);
 		return (1);
 	}
